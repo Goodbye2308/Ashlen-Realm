@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+.env
+rpg_game.db
+config.py
